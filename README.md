@@ -1,1 +1,1 @@
-# Calculator
+This is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The project features a clean and responsive design, making it easy to use on any device. It’s a beginner-friendly project that demonstrates how JavaScript can be used to create interactive web applications.
